@@ -12,6 +12,11 @@ body {
   text-align: center;
   font-size: 24px;
 
+}  
+
+.main{
+  margin:10px 10%;
+  
 }
 
 .picture img {
