@@ -1,0 +1,12 @@
+body {
+  font-family: "Lucida Grande";
+}
+
+li {
+  list-style: none;
+}
+
+.img {
+  width: 500px
+  height: 1200px;
+}
