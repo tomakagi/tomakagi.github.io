@@ -11,11 +11,13 @@ body {
   padding: 0px 0px;
   text-align: center;
   font-size: 24px;
-}  
 
-.main{
-  margin:10px 10%;
+}
 
+.picture img {
+  width: 200px;
+  height: auto;
+}
   
 .date {
   color: #AAAAAA;
