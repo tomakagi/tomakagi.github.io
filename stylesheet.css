@@ -2,12 +2,7 @@ body {
   font-family: "Lucida Grande";
 }
 
-li {
-  list-style: none;
-}
-
 .picture img {
-  width: 200px;
+  width: 20px;
   height: auto;
-
 }
