@@ -46,6 +46,10 @@ li {
   float: right;
 }
 
+.speakerdeck-embed {
+  padding: 10px 15%;
+}
+
 .footer {
   background-color: #fff;
   color: #000;
