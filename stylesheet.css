@@ -1,5 +1,5 @@
 body {
-  font-family: "Avenir Next";
+  font-family: "Baloo";
 }
 
 li {
@@ -7,8 +7,8 @@ li {
 }
 
 .header {
-  background-color: #800000;
-  color: #fff;
+  background-color: #FFF;
+  color: #000;
   height: 90px;
 }
 
@@ -20,7 +20,7 @@ li {
 
 .header-list {
   float: left;
-  color:#ffffff;
+  color:#fff;
   font-size: 20px;
   padding: 20px 25px;
   margin-top: 13px;
