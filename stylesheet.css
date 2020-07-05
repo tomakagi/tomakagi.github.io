@@ -1,5 +1,5 @@
 body {
-  font-family: "Baloo";
+  font-family: "Avenir Next";
 }
 
 li {
@@ -15,8 +15,9 @@ li {
 
 .header-logo {
   float: left;
+  font-family: "Baloo";
   font-size: 36px;
-  padding: 20px 40px;
+  padding: 20px 60px;
 }
 
 .header-list {
