@@ -7,22 +7,45 @@ li {
 }
 
 .header {
-  background-color: #FFFFFF;
-  color: #000000;
+  background-color: #26d0c9;
+  color: #fff;
   height: 90px;
 }
-    
-.header-logo {
-  float:left;
-  font-size: 50px;
-  padding: 20px 40px;
-  border-bottom: 2px solid #000000;
-}  
 
-.header-list li {
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list {
   float: left;
   color:#ffffff;
   font-size: 20px;
   padding: 20px 25px;
-  margin-top: 13px;  
+  margin-top: 13px;
+}
+
+.main {
+  padding: 10px 10px;
+}
+
+.footer {
+  background-color: #2f5167;
+  color: #fff;
+  height: 50px;
+  padding: 20px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
 }
