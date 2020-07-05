@@ -3,6 +3,11 @@ body {
 
 }
 
+li {
+  list-style: none;
+  float: left;
+}
+
 .header {
   background-color: #FFFFFF;
   color: #000000;
