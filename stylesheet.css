@@ -10,6 +10,7 @@ li {
   background-color: #FFF;
   color: #000;
   height: 90px;
+  border-bottom: 2px solid #696969
 }
 
 .header-logo {
