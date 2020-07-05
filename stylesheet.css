@@ -30,6 +30,11 @@ li {
   padding: 10px 10px;
 }
 
+.picture img {
+  width: 200px;
+  height: auto;
+}
+
 .footer {
   background-color: #2f5167;
   color: #fff;
