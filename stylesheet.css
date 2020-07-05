@@ -17,7 +17,7 @@ li {
   float: left;
   font-family: "Baloo";
   font-size: 36px;
-  padding: 20px 60px;
+  padding: 20px 25%;
 }
 
 .header-logo span {
@@ -34,7 +34,7 @@ li {
 }
 
 .main {
-  padding: 10px 10px;
+  padding: 10px 25%;
 }
 
 .picture img {
