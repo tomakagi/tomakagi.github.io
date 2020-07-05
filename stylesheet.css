@@ -42,18 +42,22 @@ li {
   height: auto;
 }
 
+.picture p {
+  float: right;
+}
+
 .footer {
   background-color: #fff;
   color: #000;
   height: 30px;
-  padding: 0px 60px;
+  padding: 20px 60px;
+    border-top: 2px solid #696969;
 }
 
 .footer-logo {
   float: left;
   font-family: "Baloo";
   font-size: 25px;
-  border-top: 2px solid #696969;
 }
 
 .footer-list {
