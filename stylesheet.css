@@ -26,6 +26,7 @@ li {
   
 .header-list {
   float: left;
+  font-family: "Baloo";
   color:#fff;
   font-size: 20px;
   padding: 20px 25px;
@@ -42,15 +43,16 @@ li {
 }
 
 .footer {
-  background-color: #2f5167;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
   height: 50px;
-  padding: 20px;
+  padding: 20px 60px;
 }
 
 .footer-logo {
   float: left;
-  font-size: 32px;
+  font-family: "Baloo";
+  font-size: 25px;
 }
 
 .footer-list {
