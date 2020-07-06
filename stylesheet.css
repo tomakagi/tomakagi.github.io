@@ -47,7 +47,14 @@ li {
   line-height: 10px;
 }
 
+.picture span {
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .research script {
+  width: 400px;
+  height: auto;
   floart: left;
   margin-right: 40px;
 }
