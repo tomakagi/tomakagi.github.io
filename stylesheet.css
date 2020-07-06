@@ -37,6 +37,11 @@ li {
   padding: 10px 15%;
 }
 
+.header-update {
+  font-size: 15px;
+  color: #696969;
+}
+
 .picture img {
   width: 200px;
   height: auto;
