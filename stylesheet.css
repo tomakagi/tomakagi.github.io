@@ -33,6 +33,13 @@ li {
   margin-top: 13px;
 }
 
+.header-update {
+  float: right;
+  color:#fff;
+  padding: 20px 15% 20px 0px;
+  margin-top: 13px;
+}
+
 .main {
   padding: 10px 15%;
 }
@@ -52,7 +59,7 @@ li {
   font-weight: bold;
 }
 
-.research script {
+.research {
   width: 400px;
   height: auto;
   floart: left;
