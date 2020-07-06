@@ -46,8 +46,9 @@ li {
   float: right;
 }
 
-.speakerdeck-embed {
-  padding: 10px 15%;
+.research {
+  floart: left;
+  margin-right: 40px;
 }
 
 .footer {
