@@ -58,7 +58,11 @@ li {
 .note {
   background-color:#2dcdb5;
 }
-    
+
+.fa {
+  margin-right:5px;
+}
+
 .main {
   padding: 10px 15%;
 }
