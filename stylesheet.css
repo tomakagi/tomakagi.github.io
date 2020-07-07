@@ -34,15 +34,24 @@ li {
 }
 
 .btn {
-  padding:8px 24px;
+  padding:4px 24px;
   color:white;
   display:inline-block;
+}
+
+.twitter {
+  background-color:#55acee
 }
 
 .facebook {
   background-color:#3b5998
 }
 
+.note {
+  background-color:#2dcdb5
+}
+    
+}
 .main {
   padding: 10px 15%;
 }
