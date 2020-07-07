@@ -33,8 +33,15 @@ li {
   margin-top: 13px;
 }
 
+.btn {
+  padding:8px 24px;
+  color:white;
+  display:inline-block;
+}
+
 .facebook {
   background-color:#3b5998
+}
 
 .main {
   padding: 10px 15%;
