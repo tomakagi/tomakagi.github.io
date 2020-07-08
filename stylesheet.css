@@ -39,6 +39,7 @@ li {
   display:inline-block;
   opacity:0.8;
   text-decoration:none;
+  cursor: pointer;
 }
 
 .btn:hover {
@@ -48,16 +49,18 @@ li {
 
 .twitter {
   background-color:#55acee;
-  margin-right: 15px
+  margin-right: 15px;
 }
 
 .facebook {
   background-color:#3b5998;
-  margin-right: 15px
+  margin-right: 15px;
 }
 
 .note {
   background-color:#2dcdb5;
+  margin-right: 15px;
+  box-shadow: 0 7px #1a7940;
 }
 
 .fa {
