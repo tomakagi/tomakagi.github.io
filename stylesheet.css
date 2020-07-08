@@ -44,22 +44,24 @@ li {
 
 .btn:hover {
   opacity:1;
-  transition:all 0.5s;
+  transition:all 0.3s;
 }
 
 .twitter {
   background-color:#55acee;
-  margin-right: 15px;
+  margin-right: 20px;
+  border-radius: 15px;
 }
 
 .facebook {
   background-color:#3b5998;
-  margin-right: 15px;
+  margin-right: 20px;
+  border-radius: 15px;
 }
 
 .note {
   background-color:#2dcdb5;
-  margin-right: 15px;
+  border-radius: 15px;
   box-shadow: 0 7px #1a7940;
 }
 
