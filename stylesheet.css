@@ -50,6 +50,10 @@ li {
   transition:all 0.3s;
 }
 
+.btn:active {
+  box-shadow:none;
+}
+
 .twitter {
   background-color:#55acee;
   margin-right: 30px;
