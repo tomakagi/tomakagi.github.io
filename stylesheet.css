@@ -12,7 +12,6 @@ li {
   height: 60px;
   width:100%;
   border-bottom: 2px solid #696969;
-  margin-bottom: 5px;
   position:fixed;
   top:0;
   z-index:10;
@@ -22,7 +21,7 @@ li {
   float: left;
   font-family: "Baloo";
   font-size: 36px;
-  padding: 0px 60px 20px 15%;
+  padding: 0px 60px 0px 15%;
 }
 
 .header-logo span {
@@ -82,6 +81,7 @@ li {
 
 .main {
   padding: 10px 15%;
+  margin-top:60px;
 }
 
 .header-update {
